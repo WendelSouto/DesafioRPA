@@ -1,0 +1,177 @@
+[
+  {
+    "Titulo": "Curso RPA: aplicações gerais",
+    "Professor": "Roberto Pina Rizzo",
+    "CargaHoraria": "8h",
+    "Descricao": "Fundamentos e práticas de uso do RPA Robotic Process Automation , que envolve o uso de tecnologias para realizar tarefas repetitivas em diferentes negócios e cotidianos das pessoas.",
+    "LinkAcesso": "https://www.alura.com.br/curso-online-rpa-fundamentos-aplicacoes"
+  },
+  {
+    "Titulo": "Automação de processo com Python",
+    "Professor": "Não disponível",
+    "CargaHoraria": "Não disponível",
+    "Descricao": "Automação de processos de robótica é tradução do inglês para Robotic Process Automation RPA . A RPA serve para resolver tarefas rotineiras rapidamente e em massa. Mesmo tarefas desempenhadas por seres humanos mas que são feitas de forma repetitiva podem ser automatizadas.",
+    "LinkAcesso": "https://cursos.alura.com.br/extra/alura-mais/automacao-de-processo-com-python-c212"
+  },
+  {
+    "Titulo": "Formação Modelagem e Melhorias de Processos de Negócios",
+    "Professor": "Enio Moraes",
+    "CargaHoraria": "86h",
+    "Descricao": "Um dos maiores desafios das organizações diz respeito à melhoria dos resultados de desempenho de negócios com agilidade operacional. Logo, conhecer de maneira clara os processos propicia uma gestão mais eficiente e viabiliza a implantação de melhorias e mudanças de forma organizada, gerenciável e previsível. Nesse sentido, a modelagem e",
+    "LinkAcesso": "https://www.alura.com.br/formacao-modelagem-melhorias-processos-negocios"
+  },
+  {
+    "Titulo": "Curso Otimizando a gestão de processos: monitoração e controle",
+    "Professor": "Roberto Pina Rizzo",
+    "CargaHoraria": "8h",
+    "Descricao": "Neste curso, aplique diferentes técnicas e ferramentas de apoio, como o Excel, por exemplo, para analisar detalhes, identificar pontos-chave para tratamento, simular e implantar melhorias em processos de negócios.",
+    "LinkAcesso": "https://www.alura.com.br/curso-online-otimizando-gestao-processos-monitoracao-controle"
+  },
+  {
+    "Titulo": "Formação Design de Jogos",
+    "Professor": "Rafael Nunes Cerveglieri",
+    "CargaHoraria": "60h",
+    "Descricao": "Já imaginou desenvolver toda a parte visual dos jogos? Nesta formação você vai aprender a criar o design dos games desde os primeiros passos. Vai entender como se dá a criação do design de personagens, cenários, assets, logo e todo o universo visual do game. Vai aprender a enviar suas",
+    "LinkAcesso": "https://www.alura.com.br/formacao-design-de-jogos"
+  },
+  {
+    "Titulo": "Formação Desenvolvimento de Jogos com Unity",
+    "Professor": "Henrique Morato",
+    "CargaHoraria": "90h",
+    "Descricao": "O mercado brasileiro de desenvolvimento de games cresce a cada ano, com estúdios de criação espalhados pelo país inteiro, a demanda de pessoas capacitadas também aumenta. Desenvolver um jogo é uma tarefa coletiva e multidisciplinar, que permite o aprendizado contínuo por meio de desafios cotidianos e envolve muitos profissionais em",
+    "LinkAcesso": "https://www.alura.com.br/formacao-jogos-unity"
+  },
+  {
+    "Titulo": "Formação Certificação LPI Linux Essentials",
+    "Professor": "Guilherme Silveira",
+    "CargaHoraria": "70h",
+    "Descricao": "Empresas de diversos setores estão explorando as tecnologias open source e o Linux continua crescendo no mundo inteiro. O que é e por que tirar a Certificação Linux LPI Essentials? Segundo o Linux Professional Institute LPI , talentos com skills de código aberto são escassos e estão em alta demanda",
+    "LinkAcesso": "https://www.alura.com.br/formacao-certificacao-lpi-linux-essentials"
+  },
+  {
+    "Titulo": "Formação Desenho básico",
+    "Professor": "Rafael Nunes Cerveglieri",
+    "CargaHoraria": "127h",
+    "Descricao": "O corpo humano é composto por diferentes partes e cada uma delas possui músculos e ossos que definem seu relevo. Compreender esse relevo é muito importante para alcançar desenhos de alta qualidade técnica. Neste curso você vai aprender a fazer uma leitura visual do corpo humano além de aprender técnicas",
+    "LinkAcesso": "https://www.alura.com.br/formacao-desenhohumano-photoshop"
+  },
+  {
+    "Titulo": "Formação Canva",
+    "Professor": "Rafael Balbi",
+    "CargaHoraria": "51h",
+    "Descricao": "É comum que o design deixe de ser um diferencial e passe a ser uma condição básica para uma empresa, projeto ou um profissional que precise se apresentar para a internet, promover seu conteúdo ou otimizar suas criações. Esse movimento criou uma demanda significativa por peças gráficas e criações funcionais",
+    "LinkAcesso": "https://www.alura.com.br/formacao-canva"
+  },
+  {
+    "Titulo": "Artigo O que você precisa saber para ser um freelancer de sucesso",
+    "Professor": "Não disponível",
+    "CargaHoraria": "Não disponível",
+    "Descricao": "Neste artigo você vai aprender como começar e organizar a sua carreira de sucesso como freelancer.",
+    "LinkAcesso": "https://www.alura.com.br/artigos/o-que-voce-precisa-saber-para-ser-um-freelancer-de-sucesso"
+  },
+  {
+    "Titulo": "Curso Pixel Art: animação de sprite de um RPG",
+    "Professor": "Rafael Balbi",
+    "CargaHoraria": "5h",
+    "Descricao": "Faça esse curso e aprenda como é animado um sprinte, conheça o Quadro frame , Quadro-chave key frame e Quadros por Segundo frames per second e mais.",
+    "LinkAcesso": "https://www.alura.com.br/curso-online-pixel-art-animacao-sprite"
+  },
+  {
+    "Titulo": "Curso Pixel Art parte 2: aprimorando o seu sprite de personagem",
+    "Professor": "Rafael Balbi",
+    "CargaHoraria": "6h",
+    "Descricao": "Quer desenhar direto prum game de RPG Aprenda aqui a trabalhar de forma avançada com pixel art para criar o sprite de um personagem.",
+    "LinkAcesso": "https://www.alura.com.br/curso-online-pixel-art-aprimorando-o-sprite-personagem"
+  },
+  {
+    "Titulo": "Curso Pixel Art parte 1: sprite de personagem de RPG",
+    "Professor": "Rafael Balbi",
+    "CargaHoraria": "3h",
+    "Descricao": "Quer desenhar direto prum game de RPG Aprenda aqui a trabalhar com o básico da pixel art para criar o sprite de um personagem.",
+    "LinkAcesso": "https://www.alura.com.br/curso-online-pixel-art-sprite-de-personagem"
+  },
+  {
+    "Titulo": "Curso Desenho de rosto: anatomia criativa",
+    "Professor": "Rafael Nunes Cerveglieri",
+    "CargaHoraria": "10h",
+    "Descricao": "Aprenda a desenhar rostos estilizados, potencializando a personalidade de suas criações com formas mais limpas e diretas. Crie um personagem com variações de expressão para um RPG digital.",
+    "LinkAcesso": "https://www.alura.com.br/curso-online-desenho-rosto"
+  },
+  {
+    "Titulo": "Curso Certificação Linux LPI Essentials parte 1: Evolution and Distributions",
+    "Professor": "Guilherme Silveira",
+    "CargaHoraria": "8h",
+    "Descricao": "- Linux Evolution and Popular Operating Systems The Kernel Linux Linux Evolutions Distributions: Android, Debian, Ubuntu, CentOS, OpenSuse, RedHat, Linux Mint, Scientific Linux- Major Open Source Applications Desktop Applications : OpenOffice, LibreOffice, Gimp, Thunderbid, firefox, chromium Server Applications : Apache, Httpd, Ngix Devlopment Languagens: C, Java, Pear, Shell Python, PHP",
+    "LinkAcesso": "https://www.alura.com.br/curso-online-linux-essentials-1"
+  },
+  {
+    "Titulo": "Artigo O que são cookies e como eles funcionam?",
+    "Professor": "Não disponível",
+    "CargaHoraria": "Não disponível",
+    "Descricao": "Os Cookies são responsáveis por armazenar informações do usuário localmente. Neste artigo vamos entender o que são, como funcionam e os tipos de cookies.",
+    "LinkAcesso": "https://www.alura.com.br/artigos/o-que-sao-cookies-como-funcionam"
+  },
+  {
+    "Titulo": "RPG hipster – Hipsters #83",
+    "Professor": "Não disponível",
+    "CargaHoraria": "42 min.",
+    "Descricao": "Nesse carnaval, manteremos a tradição do ano passado e vamos sair um pouco dos temas tecnológicos: o assunto desse episódio é RPG Participantes: Paulo Silveira, o host que comprava todas edições da Dragão BrasilRafael Balbi, instrutor na Alura, jogador profissional de RPG e streamer do Regra da Casa no Youtube",
+    "LinkAcesso": "https://www.alura.com.br/podcast/rpg-hipster-hipsters-83-a503"
+  },
+  {
+    "Titulo": "Desenvolvimento de jogos",
+    "Professor": "Não disponível",
+    "CargaHoraria": "Não disponível",
+    "Descricao": "Os cursos para desenvolvimento de jogos que você precisa.",
+    "LinkAcesso": "https://www.alura.com.br/cursos-online-programacao/desenvolvimento-de-jogos"
+  },
+  {
+    "Titulo": "Artigo Criando um diálogo com Scratch",
+    "Professor": "Não disponível",
+    "CargaHoraria": "Não disponível",
+    "Descricao": "Veja como criar diálogo para seus jogos e animações utilizando os eventos do Scratch.",
+    "LinkAcesso": "https://www.alura.com.br/artigos/criando-um-dialogo-com-scratch"
+  },
+  {
+    "Titulo": "Artigo Organizando estudo e portfolio na Alura com Notion",
+    "Professor": "Não disponível",
+    "CargaHoraria": "Não disponível",
+    "Descricao": "Aprenda a aprender, organize seus horários, seus objetivos e portfolio para uma experiência de aprendizado mais profunda não apenas na Alura. Notion, Trello e outras ferramentas serão usadas",
+    "LinkAcesso": "https://www.alura.com.br/artigos/organizando-estudos-portfolio-notion-linkedin"
+  },
+  {
+    "Titulo": "Gadgets úteis e inúteis – Hipsters #189",
+    "Professor": "Não disponível",
+    "CargaHoraria": "44 min.",
+    "Descricao": "Todo mundo já gastou dinheiro com uma coisa que achou que precisava, mas no fim não era tão útil assim. Vamos abrir as gavetas dos viciados em tecnologia e que compram qualquer gadget que vêem pela frente Participantes: Paulo Silveira, o host que já gastou demais com gadgets inúteis André",
+    "LinkAcesso": "https://www.alura.com.br/podcast/gadgets-uteis-e-inuteis-hipsters-189-a371"
+  },
+  {
+    "Titulo": "Artigo A função Math.random() no JavaScript na criação de números pseudoaleatórios",
+    "Professor": "Não disponível",
+    "CargaHoraria": "Não disponível",
+    "Descricao": "Descubra como gerar números pseudoaleatórios com a função Math.random e a transformar números reais em inteiros com a função Math.floor ou o método parseInt",
+    "LinkAcesso": "https://www.alura.com.br/artigos/funcao-math-random-javascript-numeros-pseudoaleatorios"
+  },
+  {
+    "Titulo": "Artigo JavaServer Pages: Utilizando os servlets",
+    "Professor": "Não disponível",
+    "CargaHoraria": "Não disponível",
+    "Descricao": "Aprenda sobre o JavaServer Pages, o que é e por que utilizá-lo, passando por uma introdução do Java Enterprise Edition e a estrutura de Servlets.",
+    "LinkAcesso": "https://www.alura.com.br/artigos/javaserver-pages"
+  },
+  {
+    "Titulo": "Artigo Glossário Back-End",
+    "Professor": "Não disponível",
+    "CargaHoraria": "Não disponível",
+    "Descricao": "O desenvolvimento Back-end executa as operações e interações entre o navegador e o banco de dados.",
+    "LinkAcesso": "https://www.alura.com.br/artigos/glossario-back-end"
+  },
+  {
+    "Titulo": "Canva e Mídia Social – Layers ponto tech #46",
+    "Professor": "Não disponível",
+    "CargaHoraria": "43 min.",
+    "Descricao": "Até onde o Canva consegue nos auxilar na confecção de peças criativas e como ele se comunica com nossas mídias sociais? Vamos entender um pouco melhor sobre esta ferramenta que veio para facilitar a vida de muita gente. Participantes: Luiz Lima, Designer e Instrutor na AluraRafael Balbi, Designer, podcaster e",
+    "LinkAcesso": "https://www.alura.com.br/podcast/canva-e-midia-social-layers-ponto-tech-46-a1131"
+  }
+]
