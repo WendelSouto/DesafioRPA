@@ -28,8 +28,10 @@ Você não precisa se preocupar com o design. Esse não é o objetivo do desafio
 
 # Como utilizar:
 Através do executável gerado, pode-se executar a função de busca de duas formas:
-**>DesafioRPA_AeC [nome do curso]**
-**>DesafioRPA_AeC [nome do curso] [diretorio de saida]**
+
+1. **>DesafioRPA_AeC [nome do curso]**
+2. **>DesafioRPA_AeC [nome do curso] [diretorio de saida]**
 
 Também é possível verificar através do prompt o comando --help
-**>DesafioRPA_AeC --help**
+
+1. **>DesafioRPA_AeC --help**
