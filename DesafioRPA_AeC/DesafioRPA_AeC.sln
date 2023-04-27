@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioRPA_AeC", "DesafioRPA_AeC.csproj", "{83672457-3ADB-438F-B32B-1C10C5A37E9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83672457-3ADB-438F-B32B-1C10C5A37E9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83672457-3ADB-438F-B32B-1C10C5A37E9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83672457-3ADB-438F-B32B-1C10C5A37E9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83672457-3ADB-438F-B32B-1C10C5A37E9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F99CD4C9-8F89-49DF-833C-86598E02BAFF}
+	EndGlobalSection
+EndGlobal
