@@ -14,8 +14,7 @@ class Program
 
         var cursoService = serviceProvider.GetService<ICursosService>();
 
-        //cursoService.BuscarCursoPorNome(args[0]);
-        cursoService.BuscarCursoPorNome("RPA");
+        cursoService.BuscarCursoPorNome(args[0]);
         
     }
 
