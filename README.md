@@ -24,3 +24,24 @@ Você não precisa se preocupar com o design. Esse não é o objetivo do desafio
 
 ## Fora isso, sinta-se a vontade para:
 • Usar qualquer forma de persistência de dados;
+
+
+# Como utilizar:
+Através do executável gerado, pode-se executar a função de busca de duas formas:
+
+1. **>DesafioRPA_AeC.exe [nome do curso]**
+2. **>DesafioRPA_AeC.exe [nome do curso] [diretorio de saida]**
+
+Também é possível verificar através do prompt o comando --help
+
+1. **>DesafioRPA_AeC.exe --help**
+
+
+# Como funciona:
+1. O programa recebe os inputs do prompt.
+2. Utiliza a biblioteca Selenium para iniciar a varredura no site da Alura através do primeiro parâmetro (nome do curso).
+3. A partir do nome do curso, a pesquisa retorna uma lista de itens que é mostrada na página da Alura.
+4. O programa realiza uma varredura em todos os itens que retornaram através da pesquisa.
+5. Cada item será redirecionado para uma nova página, onde os detalhes serão disponibilizados e armazenados.
+6. Após a varredura de todos os detalhes de cada item da pesquisa, o programa persiste as informações em um arquivo no formato JSON em um diretório.
+7. Se o parâmetro do diretório não for informado, o mesmo será salvo na pasta raiz do executável, caso contrário, será salvo no diretório informado.
