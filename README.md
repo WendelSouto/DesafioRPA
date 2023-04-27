@@ -24,3 +24,12 @@ Você não precisa se preocupar com o design. Esse não é o objetivo do desafio
 
 ## Fora isso, sinta-se a vontade para:
 • Usar qualquer forma de persistência de dados;
+
+
+# Como utilizar:
+Através do executável gerado, pode-se executar a função de busca de duas formas:
+**>DesafioRPA_AeC [nome do curso]**
+**>DesafioRPA_AeC [nome do curso] [diretorio de saida]**
+
+Também é possível verificar através do prompt o comando --help
+**>DesafioRPA_AeC --help**

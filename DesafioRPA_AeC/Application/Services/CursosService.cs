@@ -8,7 +8,7 @@ namespace DesafioRPA_AeC.Api.Services
 {
     public interface ICursosService
     {
-        void BuscarCursoPorNome(string name);
+        void BuscarCursoPorNome(string name, string outputPath = "");
         string CheckTeacherElements(List<string> teacherElements);
         string CheckTimingElements(List<string> timingElements);
     }
@@ -25,7 +25,7 @@ namespace DesafioRPA_AeC.Api.Services
             _cursoRepository = cursoRepository;
         }
 
-        public void BuscarCursoPorNome(string nome)
+        public void BuscarCursoPorNome(string nome, string outputPath="")
         {
             var appSettings = ConfigurationManager.AppSettings;
             var path = "..\\..\\..\\Driver";
@@ -66,9 +66,8 @@ namespace DesafioRPA_AeC.Api.Services
 
             }
             _driver.Close();
-            _cursoRepository.SalvaCursos(cursos);
+            _cursoRepository.SalvaCursos(cursos, outputPath);
         }
-
         public string CheckTeacherElements(List<string> teacherElements)
         {
             foreach (string teacherElement in teacherElements)
@@ -80,7 +79,6 @@ namespace DesafioRPA_AeC.Api.Services
             return "Não disponível";
             
         }
-
         public string CheckTimingElements(List<string> timingElements)
         {
             foreach (string timingElement in timingElements)
